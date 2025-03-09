@@ -8,8 +8,8 @@
 ✅ Продажи по странам (разбивка по географии) <br>
 ✅ Эффективность продуктов и менеджеров (scatter plot с рейтингом) <br>
 
-Исходный датасет:
+Исходный датасет: <br>
 https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales?select=Chocolate+Sales.xlsx
 
-🔗 Ссылка на интерактивный дашборд:
+🔗 Ссылка на интерактивный дашборд: <br>
 https://public.tableau.com/views/ChocolateSales_17415515279490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
