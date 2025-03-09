@@ -10,3 +10,6 @@
 
 Исходный датасет:
 https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales?select=Chocolate+Sales.xlsx
+
+🔗 Ссылка на интерактивный дашборд:
+https://public.tableau.com/views/ChocolateSales_17415515279490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
